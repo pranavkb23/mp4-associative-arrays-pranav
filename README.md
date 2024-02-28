@@ -3,6 +3,12 @@ Associative Arrays
 
 Starter code for a project on associative arrays.
 
-_Students must replace the contents of this file with appropriate
-contents, including author and date._
+### @author — Pranav K Bhandari 
+### @author — Samuel A. Rebelsky
+
+Submission deadline — 28th February, 2024.
+Date of submission — 28th February, 2024.
+
+Implemented AssociativeArray.java class, filling out the STUBs for functions
+clone(), toString(), set(), get(), hasKey(), remove(), and find().
 
